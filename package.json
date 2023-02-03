@@ -1,0 +1,11 @@
+{
+  "name": "m2-a2",
+  "version": "1.0.0",
+  "description": "module 2 assignment 2 javascript advanced concepts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Charles Schrader",
+  "license": "ISC"
+}
